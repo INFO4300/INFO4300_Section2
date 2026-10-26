@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+<title id="title">Cedar Crossing Library’s flexible room</title><desc id="desc">A clean illustrated library interior with bookshelves, a window, a quiet desk, a shared table, movable chairs, and a plant. The room can support different activities.</desc>
+<defs><pattern id="floor" width="170" height="80" patternUnits="userSpaceOnUse"><path d="M0 79H170M85 0V79" fill="none" stroke="#c4d1c9" stroke-width="2"/></pattern></defs>
+<path d="M120 545V240Q120 80 300 80H820Q1000 80 1000 240V545Z" fill="#fff" stroke="#c8d6ce" stroke-width="4"/>
+<path d="M78 545H1042L1100 680H20Z" fill="#e1eae4"/><path d="M78 545H1042L1100 680H20Z" fill="url(#floor)"/>
+<rect x="405" y="132" width="310" height="308" rx="145" fill="#b9dcd2" stroke="#006747" stroke-width="8"/><path d="M560 137V438M410 282H710" stroke="#006747" stroke-width="7"/><path d="M423 406Q470 290 523 383Q590 274 684 406Z" fill="#73aa93"/><path d="M446 207H504M461 187H511" stroke="white" stroke-width="8" stroke-linecap="round"/>
+<rect x="165" y="288" width="186" height="270" rx="5" fill="#006747"/><path d="M177 376H339M177 456H339M177 537H339" stroke="#b9dcd2" stroke-width="7"/>
+<g fill="#fff"><rect x="184" y="310" width="18" height="61" rx="2"/><rect x="211" y="318" width="24" height="53" rx="2"/><rect x="245" y="303" width="15" height="68" rx="2"/><rect x="274" y="315" width="20" height="56" rx="2" transform="rotate(-12 284 343)"/></g>
+<g fill="#b9dcd2"><rect x="188" y="393" width="28" height="58" rx="2"/><rect x="224" y="401" width="16" height="50" rx="2"/><rect x="251" y="388" width="23" height="63" rx="2"/><rect x="286" y="403" width="34" height="48" rx="2"/><rect x="185" y="478" width="21" height="54" rx="2"/><rect x="215" y="474" width="30" height="58" rx="2"/><rect x="255" y="482" width="17" height="50" rx="2"/></g>
+<rect x="780" y="230" width="155" height="122" rx="7" fill="#edf5f1" stroke="#c8d6ce" stroke-width="4"/><path d="M800 257H913M800 282H892M800 307H903" stroke="#006747" stroke-width="5"/>
+<path d="M397 468H705L728 496H375Z" fill="#73aa93" stroke="#006747" stroke-width="4"/><path d="M399 498V593M700 498V593" stroke="#006747" stroke-width="12"/>
+<path d="M475 470L491 425H558L572 470Z" fill="#53565a"/><path d="M489 462L499 435H550L560 462Z" fill="#b9dcd2"/><path d="M462 474H583" stroke="#53565a" stroke-width="7"/>
+<path d="M513 559V627M600 559V627" stroke="#006747" stroke-width="9"/><rect x="494" y="515" width="126" height="61" rx="13" fill="#006747"/><rect x="503" y="576" width="106" height="16" rx="6" fill="#00853e"/>
+<path d="M744 512H965L1015 568H695Z" fill="#b9dcd2" stroke="#006747" stroke-width="4"/><path d="M721 571V649M985 571V649" stroke="#006747" stroke-width="12"/>
+<path d="M798 541L817 525L865 534L845 551Z" fill="white"/><path d="M850 551L875 534L918 547L895 564Z" fill="#edf5f1" stroke="#006747" stroke-width="2"/>
+<rect x="762" y="584" width="115" height="56" rx="14" fill="#00853e"/><path d="M776 636V676M860 636V676" stroke="#006747" stroke-width="8"/>
+<path d="M950 462L961 528H1010L1020 462Z" fill="#53565a"/><path d="M984 466V374" stroke="#006747" stroke-width="6"/><path d="M985 431Q921 429 936 390Q977 390 985 431M985 410Q987 358 1027 368Q1033 403 985 410M984 384Q949 360 965 335Q999 343 984 384" fill="#00853e"/>
+<path d="M105 692H1014" stroke="#c8d6ce" stroke-width="4" stroke-linecap="round"/>
+</svg>
